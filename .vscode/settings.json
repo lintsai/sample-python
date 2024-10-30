@@ -1,0 +1,4 @@
+{ 
+    "python.pythonPath": "C:\path\to\your\virtualenv\Scripts\python.exe", 
+    "editor.formatOnSave": true 
+} 
